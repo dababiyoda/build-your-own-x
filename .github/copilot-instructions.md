@@ -1,0 +1,1 @@
+Read `AGENTS.md` before using this fork for UNIIMENTE. Treat tutorials as mechanism anatomy, not a build-everything roadmap. **Preserve the target effect, extract causal primitives, prefer using/adapting mature real implementations, and build only the residual UNIIMENTE-specific capability.**
